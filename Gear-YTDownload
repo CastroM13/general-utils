@@ -1,0 +1,1 @@
+javascript:window.open("https://ygear.herokuapp.com/download?v="+new URLSearchParams(location.search).get("v"));
